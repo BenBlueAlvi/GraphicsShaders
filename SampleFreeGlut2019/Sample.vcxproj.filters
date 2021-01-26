@@ -28,13 +28,13 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="epDots.glib">
+    <None Include="ovalnoise.glib">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="epDots.vert">
+    <None Include="ovalnoise.vert">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="epDots.frag">
+    <None Include="ovalnoise.frag">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>

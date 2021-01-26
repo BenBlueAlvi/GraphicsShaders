@@ -138,9 +138,9 @@
     <ClInclude Include="glslprogram.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="epDots.frag" />
-    <None Include="epDots.glib" />
-    <None Include="epDots.vert" />
+    <None Include="ovalnoise.frag" />
+    <None Include="ovalnoise.glib" />
+    <None Include="ovalnoise.vert" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
