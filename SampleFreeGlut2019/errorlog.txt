@@ -1,5 +1,5 @@
 
-ERROR: 0:56: '=' :  cannot convert from '4-component vector of highp float' to '3-component vector of highp float'
-ERROR: 0:60: 'assign' :  cannot convert from '3-component vector of highp float' to 'FragColor 4-component vector of mediump float'
+ERROR: 0:39: '' : illegal non-ASCII character (0x96)
+ERROR: 0:39: 'vMC' : syntax error syntax error
 
 
