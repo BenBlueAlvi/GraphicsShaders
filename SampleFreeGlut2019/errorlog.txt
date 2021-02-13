@@ -1,5 +1,5 @@
 
-ERROR: 0:39: '' : illegal non-ASCII character (0x96)
-ERROR: 0:39: 'vMC' : syntax error syntax error
+WARNING: 0:1: '' :  #version directive missing
+ERROR: 0:13: 'LightPos' : undeclared identifier 
 
 

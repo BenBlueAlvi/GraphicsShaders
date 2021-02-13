@@ -138,9 +138,11 @@
     <ClInclude Include="glslprogram.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="pleats.frag" />
-    <None Include="pleats.glib" />
-    <None Include="pleats.vert" />
+    <None Include="pleatscube.frag" />
+    <None Include="pleatscube.glib" />
+    <None Include="pleatscube.vert" />
+    <None Include="texture.frag" />
+    <None Include="texture.vert" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
