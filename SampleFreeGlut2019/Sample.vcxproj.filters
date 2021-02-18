@@ -28,19 +28,19 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="pleatscube.glib">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="pleatscube.frag">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="pleatscube.vert">
-      <Filter>Resource Files</Filter>
-    </None>
     <None Include="texture.vert">
       <Filter>Resource Files</Filter>
     </None>
     <None Include="texture.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="magic.glib">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="magic.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="magic.frag">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>

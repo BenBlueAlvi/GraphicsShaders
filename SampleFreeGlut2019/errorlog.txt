@@ -1,5 +1,4 @@
 
-WARNING: 0:1: '' :  #version directive missing
-ERROR: 0:13: 'LightPos' : undeclared identifier 
+ERROR: 0:62: 'float' : syntax error syntax error
 
 
