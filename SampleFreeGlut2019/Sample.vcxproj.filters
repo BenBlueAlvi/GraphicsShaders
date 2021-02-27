@@ -34,14 +34,28 @@
     <None Include="texture.frag">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="magic.glib">
+    <None Include="cat.glib">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="magic.vert">
+    <None Include="cat.frag">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="magic.frag">
+    <None Include="cat.vert">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="cat.tcs">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="cat.tes">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="cat.geom">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="catL.obj">
+      <Filter>Resource Files</Filter>
+    </Object>
   </ItemGroup>
 </Project>

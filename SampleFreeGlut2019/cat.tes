@@ -1,0 +1,19 @@
+#version 400
+
+layout( isolines, equal_spacing) in;
+
+in vec4 E[];
+in vec2 vST[];
+
+out vec4 Es;
+out vec2 vSTs;
+
+
+
+void
+main( )
+{
+	
+	
+	gl_Position = vec4(gl_TessCoord.xyz, 1);
+}

@@ -138,11 +138,17 @@
     <ClInclude Include="glslprogram.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="magic.frag" />
-    <None Include="magic.glib" />
-    <None Include="magic.vert" />
+    <None Include="cat.frag" />
+    <None Include="cat.geom" />
+    <None Include="cat.glib" />
+    <None Include="cat.tcs" />
+    <None Include="cat.tes" />
+    <None Include="cat.vert" />
     <None Include="texture.frag" />
     <None Include="texture.vert" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="catL.obj" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,4 +1,4 @@
 
-ERROR: 0:62: 'float' : syntax error syntax error
+ERROR: 0:31: 'gl_Position' : syntax error syntax error
 
 
